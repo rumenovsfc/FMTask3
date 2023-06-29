@@ -208,6 +208,10 @@ body {
         height: 50px;
         border-radius: 10px;
     }
+    .button1:hover {
+        background-color: var(--color-vdblue);
+        color: var(--color-white);
+    }
 }
 
 
